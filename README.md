@@ -6,7 +6,7 @@ Developer
 
 Hi, I’m Seif! I’m a student at Higher School of Economics, Faculty of Computer Science, Bachelor’s Software Engineering.
 
-* 🌍  I'm based in Moscow,Russia
+* 🌍  I'm from Egypt and living now in Moscow,Russia
 * ✉️  You can contact me at [saly@edu.hse.ru](mailto:saly@edu.hse.ru)
 
 ### Skills
